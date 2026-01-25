@@ -78,9 +78,12 @@ https://github.com/abdul-samad-001/SMS-SPAM-DETECTION
 ### 🎬 Netflix Clone
 > **Pixel-perfect frontend recreation of Netflix UI**
 
-- Built using pure HTML & CSS  
+- Built using pure HTML5 & CSS3  
 - Responsive, modern layout  
 - Clean UI structure  
+
+🌐 **Live Demo:**  
+https://hangman-game-topaz-two.vercel.app/
 
 📂 **Repository:**  
 https://github.com/abdul-samad-001/netflix-clone
@@ -90,8 +93,11 @@ https://github.com/abdul-samad-001/netflix-clone
 ### 🎮 Hangman Game (Python → Web)
 > **Classic Hangman game evolved from desktop to browser**
 
-- Python (Tkinter) → Web (HTML, CSS, JS)  
-- Core logic, state handling & UI adaptation  
+- Python (Tkinter) → Web (HTML5, CSS3, JS)  
+- Core logic, state handling & UI adaptation
+
+🌐 **Live Demo:**  
+https://netflix-r8uba0saw-abdul-samad-001s-projects.vercel.app/
 
 📂 **Repository:**  
 https://github.com/abdul-samad-001/Hangman-Game
