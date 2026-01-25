@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdul-samad-001&label=Profile+Views&color=00E5FF&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=abdul-samad-001&label=Profile%20Views&color=00E5FF&style=for-the-badge" />
 </p>
 
 <p align="center">
