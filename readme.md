@@ -2,7 +2,7 @@
 <h1 align="center">✨ Abdul Samad ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&pause=600&color=00E5FF&center=true&vCenter=true&width=750&lines=B.Tech+CSE+(AI+%26+ML);NLP+%7C+Machine+Learning+Developer;Full-Stack+ML+Projects;Turning+Ideas+Into+Live+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&pause=600&color=00E5FF&center=true&vCenter=true&width=780&lines=B.Tech+CSE+(AI+%26+ML);Software+Engineer+%7C+ML+Developer;NLP+%7C+Full-Stack+Projects;Turning+Ideas+Into+Live+Products" />
 </p>
 
 <p align="center">
@@ -28,10 +28,11 @@
 
 ## 🧠 About Me
 
-🎓 B.Tech student in **Computer Science (Artificial Intelligence & Machine Learning)**  
-🤖 Strong interest in **NLP, Machine Learning & real-world deployments**  
-🌐 I build **end-to-end systems** — Model → API → UI → Live Demo  
-🚀 Focused on practical, production-style projects and clean design  
+🎓 B.Tech student in **Computer Science (AI & ML)**  
+💻 Aspiring **Software Engineer** with strong ML foundations  
+🤖 Experience in **NLP, Machine Learning & API-based systems**  
+🌐 Build **end-to-end products** — backend, ML logic, frontend & deployment  
+🚀 Focused on clean code, scalability, and interview-ready fundamentals  
 
 ---
 
@@ -45,8 +46,8 @@
 ### 🤖 AI / ML / NLP
 - Text preprocessing & feature engineering  
 - TF-IDF vectorization  
-- Probabilistic classifiers (Naive Bayes)  
-- Confidence & probability-based predictions  
+- Probabilistic models (Naive Bayes)  
+- Model evaluation & confidence scoring  
 
 ### ⚙️ Tools & Platforms
 <p>
@@ -60,9 +61,9 @@
 ### 🧠 SMS Spam Detection System
 > **NLP-powered spam classifier with confidence scores**
 
-- Machine Learning–based text classification  
+- ML-based text classification  
 - Flask REST API for real-time predictions  
-- Interactive Web UI  
+- Interactive web UI  
 - Deployed live on **Vercel**
 
 🌐 **Live Demo:**  
@@ -77,7 +78,7 @@ https://github.com/abdul-samad-001/SMS-SPAM-DETECTION
 > **Pixel-perfect frontend recreation of Netflix UI**
 
 - Built using pure HTML & CSS  
-- Modern, responsive layout  
+- Responsive, modern layout  
 - Clean UI structure  
 
 📂 **Repository:**  
@@ -88,9 +89,8 @@ https://github.com/abdul-samad-001/netflix-clone
 ### 🎮 Hangman Game (Python → Web)
 > **Classic Hangman game evolved from desktop to browser**
 
-- Developed in Python (Tkinter)  
-- Migrated to web using HTML, CSS & JavaScript  
-- Demonstrates game logic & UI adaptation  
+- Python (Tkinter) → Web (HTML, CSS, JS)  
+- Core logic, state handling & UI adaptation  
 
 📂 **Repository:**  
 https://github.com/abdul-samad-001/Hangman-Game
@@ -103,26 +103,43 @@ https://github.com/abdul-samad-001/Hangman-Game
   <img src="https://github-readme-stats.vercel.app/api?username=abdul-samad-001&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14" width="47%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-samad-001&layout=compact&theme=tokyonight&hide_border=true&border_radius=14" width="40%" />
-</p>
 
 ---
 
 ## 🧩 DSA & Competitive Programming
 
-- 📌 Regular problem solving on **LeetCode** and **GeeksforGeeks**
-- 📈 Focus on **Data Structures, Algorithms, and problem-solving patterns**
-- 🧠 Strengthening fundamentals for technical interviews
+- Regular problem solving on **LeetCode** and **GeeksforGeeks**
+- Strong focus on:
+  - Arrays, Strings, Recursion  
+  - Stack, Queue, Linked List  
+  - Trees & Binary Search  
+  - Hashing & Two Pointers  
+- Actively improving **problem-solving patterns for SWE interviews**
+
+---
+
+## 📊 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/abdul-samad-001?theme=dark&font=Baloo&radius=14" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdul-samad-001&theme=tokyonight&no-frame=true&row=1&margin-w=15" />
+</p>
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced Machine Learning workflows  
-- Scalable API & backend design  
-- Deployment best practices  
-- System design fundamentals  
+- Advanced Data Structures & Algorithms  
+- System Design fundamentals  
+- Scalable backend & API architecture  
+- ML deployment best practices  
 
 ---
 
