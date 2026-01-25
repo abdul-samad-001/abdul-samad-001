@@ -1,38 +1,43 @@
-<h1 align="center">Hi 👋, I'm Abdul Samad</h1>
-<h3 align="center">B.Tech CSE (AI & ML) | Full-Stack ML Developer | NLP Enthusiast</h3>
+<h1 align="center">✨ Abdul Samad ✨</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=E50914&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI+%26+ML);NLP+%7C+Machine+Learning;Full-Stack+ML+Developer;Building+Real-World+Projects" />
+</p>
 
 <p align="center">
   <a href="https://github.com/abdul-samad-001">
-    <img src="https://komarev.com/ghpvc/?username=abdul-samad-001&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=abdul-samad-001&label=Profile+Views&color=E50914&style=flat-square" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-🎓 Computer Science student specializing in **Artificial Intelligence & Machine Learning**  
-🧠 Passionate about **NLP, ML systems, and real-world deployments**  
-🌐 I build **end-to-end projects** — from model training to live web apps  
-⚡ Constantly learning and improving through hands-on development
+🎓 B.Tech student in **Computer Science (AI & Machine Learning)**  
+🤖 Strong interest in **NLP, Machine Learning, and Full-Stack Development**  
+🌐 I build **end-to-end applications** — from ML models to deployed web apps  
+🚀 Focused on **real-world, production-style projects**  
+📈 Always learning, experimenting, and improving
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming & Web
+### 👨‍💻 Languages & Web
 <p>
   <img src="https://skillicons.dev/icons?i=java,c,python,javascript,html,css,sql" />
 </p>
 
-### 🤖 Machine Learning & NLP
-- Text Preprocessing, TF-IDF  
-- Naive Bayes, Model Evaluation  
-- NLP-based Classification Systems  
+### 🤖 AI / ML / NLP
+- Text preprocessing & feature engineering  
+- TF-IDF based vectorization  
+- Probabilistic classifiers (Naive Bayes)  
+- Model evaluation & confidence scoring  
 
 ### ⚙️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,vercel" />
 </p>
 
 ---
@@ -41,53 +46,57 @@
 
 ### 🧠 SMS Spam Detection System
 🔹 NLP + Machine Learning based spam classifier  
-🔹 Flask REST API + Web UI  
-🔹 Confidence-based predictions  
-🔹 Deployed on Vercel  
+🔹 Flask REST API with confidence-based predictions  
+🔹 Interactive web UI  
+🔹 Deployed live on Vercel  
 
-👉 **Live Demo:**  
-https://sms-spam-detection-five.vercel.app/
+🌐 **Live Demo:**  
+👉 https://sms-spam-detection-five.vercel.app/
+
+📂 **Repository:**  
+👉 https://github.com/abdul-samad-001/SMS-SPAM-DETECTION
 
 ---
 
 ### 🎬 Netflix Clone
 🔹 Pixel-perfect Netflix landing page clone  
 🔹 Built using pure HTML & CSS  
-🔹 Responsive modern UI  
+🔹 Fully responsive modern UI  
 
-👉 **Repository:**  
-https://github.com/abdul-samad-001/netflix-clone
+📂 **Repository:**  
+👉 https://github.com/abdul-samad-001/netflix-clone
 
 ---
 
 ### 🎮 Hangman Game (Python → Web)
-🔹 Classic Hangman game built using **Python (Tkinter)**  
-🔹 Migrated to a **web-based version** using HTML, CSS & JavaScript  
-🔹 Demonstrates GUI design, game logic, and frontend adaptation  
+🔹 Classic Hangman game using Python (Tkinter)  
+🔹 Migrated to a web-based version (HTML, CSS, JS)  
+🔹 Demonstrates game logic & UI adaptation  
 
-👉 **Repository / Demo:**  
-https://github.com/abdul-samad-001/Hangman-Game
-
+📂 **Repository:**  
+👉 https://github.com/abdul-samad-001/Hangman-Game
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdul-samad-001&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdul-samad-001&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-samad-001&theme=tokyonight&hide_border=true&border_radius=12" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-samad-001&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-samad-001&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="40%" />
 </p>
-
 
 ---
 
 ## 🌱 Currently Learning
-- Advanced Machine Learning pipelines  
-- Full-stack ML deployment patterns  
-- Scalable APIs & system design basics  
+
+- Advanced Machine Learning workflows  
+- Scalable API design  
+- Deployment best practices  
+- System design fundamentals  
 
 ---
 
@@ -104,4 +113,6 @@ https://github.com/abdul-samad-001/Hangman-Game
 
 ---
 
-⭐ *If you like my work, consider starring ⭐ my repositories or following me!*  
+<p align="center">
+⭐ If you like my work, consider starring ⭐ my repositories or following me 🚀
+</p>
