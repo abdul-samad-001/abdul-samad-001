@@ -71,10 +71,14 @@ https://github.com/abdul-samad-001/Hangman-Game
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdul-samad-001&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdul-samad-001&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-samad-001&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="40%" />
 </p>
 
 
