@@ -133,14 +133,6 @@ https://github.com/abdul-samad-001/Hangman-Game
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdul-samad-001&theme=tokyonight&no-frame=true&row=1&margin-w=15" />
-</p>
-
----
-
 ## 🌱 Currently Learning
 
 - Advanced Data Structures & Algorithms  
