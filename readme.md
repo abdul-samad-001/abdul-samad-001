@@ -1,72 +1,103 @@
-# 👋 Hi, I’m Abdul Samad
+<h1 align="center">Hi 👋, I'm Abdul Samad</h1>
+<h3 align="center">B.Tech CSE (AI & ML) | Full-Stack ML Developer | NLP Enthusiast</h3>
 
-Welcome to my GitHub! I'm a passionate **Computer Science student** specializing in **AI/ML, NLP, and Full-Stack Web Development**.  
-I love building meaningful applications — from machine learning models to full-stack web projects with real deployments. 🌐
+<p align="center">
+  <a href="https://github.com/abdul-samad-001">
+    <img src="https://komarev.com/ghpvc/?username=abdul-samad-001&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- 🎓 B.Tech in Computer Science with specialization in AI & Machine Learning  
-- 💡 Skilled in building end-to-end solutions: APIs, ML models, and Web UIs  
-- 🚀 Currently exploring advanced topics in AI, deployment, and scalable web apps  
-- 🔭 Always learning and improving through real projects
+🎓 Computer Science student specializing in **Artificial Intelligence & Machine Learning**  
+🧠 Passionate about **NLP, ML systems, and real-world deployments**  
+🌐 I build **end-to-end projects** — from model training to live web apps  
+⚡ Constantly learning and improving through hands-on development
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-Java, C, Python, JavaScript, SQL
+### 👨‍💻 Programming & Web
+<p>
+  <img src="https://skillicons.dev/icons?i=java,c,python,javascript,html,css,sql" />
+</p>
 
-**Frontend:**  
-HTML5, CSS3, JavaScript (ES6), Responsive UI
+### 🤖 Machine Learning & NLP
+- Text Preprocessing, TF-IDF  
+- Naive Bayes, Model Evaluation  
+- NLP-based Classification Systems  
 
-**Backend & APIs:**  
-Flask, REST APIs
-
-**Machine Learning & NLP:**  
-Text preprocessing, TF-IDF, Naive Bayes, Model evaluation
-
-**Tools & Platforms:**  
-Git, VS Code, Jupyter Notebook, Google Colab, Vercel
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdul-samad-001&show_icons=true&theme=dark&count_private=true)
+### ⚙️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 SMS Spam Detection System  
-A full-stack Machine Learning project using NLP and Naive Bayes.  
-Provides real-time SMS classification via a Flask REST API and web UI with confidence scores.  
-🔗 Live Demo: https://sms-spam-detection-five.vercel.app/  
+### 🧠 SMS Spam Detection System
+🔹 NLP + Machine Learning based spam classifier  
+🔹 Flask REST API + Web UI  
+🔹 Confidence-based predictions  
+🔹 Deployed on Vercel  
 
-### 🎬 Netflix Clone  
-A pixel-perfect responsive frontend clone of Netflix UI using pure HTML and CSS.  
-Showcases modern layout techniques, responsive design, and UI recreation.
-
-### (Add more projects as needed…)
+👉 **Live Demo:**  
+https://sms-spam-detection-five.vercel.app/
 
 ---
 
-## 💡 I’m learning…
-- Advanced Machine Learning & Deep Learning workflows  
-- API integrations with modern web frameworks  
-- Deployment automation & scalable cloud solutions
+### 🎬 Netflix Clone
+🔹 Pixel-perfect Netflix landing page clone  
+🔹 Built using pure HTML & CSS  
+🔹 Responsive modern UI  
+
+👉 **Repository:**  
+https://github.com/abdul-samad-001/netflix-clone
 
 ---
 
-## 📫 Connect with Me
+### 🎮 Hangman Game (Python → Web)
+🔹 Classic Hangman game built using **Python (Tkinter)**  
+🔹 Migrated to a **web-based version** using HTML, CSS & JavaScript  
+🔹 Demonstrates GUI design, game logic, and frontend adaptation  
 
-**LinkedIn:** https://www.linkedin.com/in/abdul-samad71/  
-**Email:** abdul.samad18090@gmail.com  
-**Portfolio:** (Add link if you have one)
+👉 **Repository / Demo:**  
+https://github.com/abdul-samad-001/Hangman-Game
+
 
 ---
 
-⭐ If you find my work interesting, feel free to follow or star my repos!
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdul-samad-001&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-samad-001&theme=tokyonight" width="48%"/>
+</p>
+
+---
+
+## 🌱 Currently Learning
+- Advanced Machine Learning pipelines  
+- Full-stack ML deployment patterns  
+- Scalable APIs & system design basics  
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/abdul-samad71/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:abdul.samad18090@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+⭐ *If you like my work, consider starring ⭐ my repositories or following me!*  
