@@ -10,16 +10,17 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdul-samad71/" target="_blank">
+  <a href="https://www.linkedin.com/in/abdul-samad025/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:abdul.samad18090@gmail.com">
+  <a href="mailto:abdulsamad9040474@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://leetcode.com/u/abdul-samad-001/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/abdulsamad9040474/" target="_blank">
+  <a href="https://leetcode.com/u/abdul_samad_025/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode" />
+</a>
+
+  <a href="https://www.geeksforgeeks.org/profile/abdul_samad_025" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks" />
   </a>
 </p>
@@ -121,7 +122,7 @@ https://github.com/abdul-samad-001/Hangman-Game
 ## 📊 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/abdul-samad-001?theme=dark&font=Baloo&radius=14" />
+  <img src="https://leetcard.jacoblin.cool/abdul_samad_025?theme=dark&font=Baloo&radius=14" />
 </p>
 
 ---
