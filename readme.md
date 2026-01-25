@@ -51,9 +51,10 @@
 - Model evaluation & confidence scoring  
 
 ### ⚙️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,vercel&theme=dark" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,vercel" />
 </p>
+
 
 ---
 
