@@ -84,7 +84,7 @@ https://github.com/abdul-samad-001/SMS-SPAM-DETECTION
 - Clean UI structure  
 
 🌐 **Live Demo:**  
-https://hangman-game-topaz-two.vercel.app/
+https://netflix-r8uba0saw-abdul-samad-001s-projects.vercel.app/
 
 📂 **Repository:**  
 https://github.com/abdul-samad-001/netflix-clone
@@ -98,7 +98,7 @@ https://github.com/abdul-samad-001/netflix-clone
 - Core logic, state handling & UI adaptation
 
 🌐 **Live Demo:**  
-https://netflix-r8uba0saw-abdul-samad-001s-projects.vercel.app/
+https://hangman-game-topaz-two.vercel.app/
 
 📂 **Repository:**  
 https://github.com/abdul-samad-001/Hangman-Game
