@@ -59,6 +59,23 @@
 ---
 
 ## 🚀 Featured Projects
+### AI-Resume-Analyzer
+> **Privacy-first browser-based resume analysis with dynamic insights**
+
+- Client-side resume parsing (PDF, DOCX, TXT)
+- Skill detection and keyword density analysis
+- Action verb highlighting and improvement suggestions
+- Interactive dashboard with responsive UI
+- Privacy-first architecture (100% browser processing)
+- Live deployment on Vercel
+
+🌐 **Live Demo:**  
+https://ai-resume-analyzer-gamma-ashy.vercel.app/
+
+📂 **Repository:** 
+https://github.com/abdul-samad-001/AI-Resume-Analyzer
+
+--- 
 
 ### 🧠 SMS Spam Detection System
 > **NLP-powered spam classifier with confidence scores**
