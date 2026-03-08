@@ -73,7 +73,6 @@
 https://ai-resume-analyzer-gamma-ashy.vercel.app/
 
 📂 **Repository:** 
-
 https://github.com/abdul-samad-001/AI-Resume-Analyzer
 
 --- 
