@@ -59,6 +59,37 @@
 ---
 
 ## 🚀 Featured Projects
+### 🧠 AI-Resume-Analyzer | React + AI Resume Analysis System
+
+> _Privacy-first AI-powered resume analysis with modern UI & intelligent insights_
+#### ✨ Features
+- 📄 Resume parsing (PDF, DOCX)  
+- 🎯 Skill & keyword analysis  
+- 🤖 AI insights (optional)  
+- 📊 Dashboard & reports  
+- 🔒 Privacy-first (browser-based)  
+
+---
+
+#### 🛠 Tech
+React • Vite • Tailwind • Recharts • jsPDF • Gemini/OpenAI  
+
+---
+
+#### 🏗 Architecture
+Modular • Hooks • Service-based • NLP engine  
+
+---
+
+#### 🔗 Links
+
+- 🌐 **Live Demo:**  
+  https://ai-resume-analyzer-react-eta.vercel.app/
+
+- 📁 **Repository:**  
+  https://github.com/abdul-samad-001/AI-Resume-Analyzer-React
+
+---
 ### AI-Resume-Analyzer
 > **Privacy-first browser-based resume analysis with dynamic insights**
 
