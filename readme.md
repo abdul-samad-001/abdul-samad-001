@@ -2,7 +2,7 @@
 <h1 align="center">✨ Abdul Samad ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&pause=600&color=00E5FF&center=true&vCenter=true&width=780&lines=B.Tech+CSE+(AI+%26+ML);Software+Engineer+%7C+ML+Developer;NLP+%7C+Full-Stack+Projects;Turning+Ideas+Into+Live+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&pause=600&color=00E5FF&center=true&vCenter=true&width=780&lines=B.Tech+CSE+(AI+%26+ML);Full-Stack+Developer;React+%7C+AI+%7C+UI%2FUX;Building+Real-World+Projects" />
 </p>
 
 <p align="center">
@@ -10,18 +10,14 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdul-samad025/" target="_blank">
+  <a href="https://linkedin.com/in/abdul-samad025">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:abdulsamad9040474@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://leetcode.com/u/abdul_samad_025/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode" />
-</a>
-
-  <a href="https://www.geeksforgeeks.org/profile/abdul_samad_025" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks" />
+  <a href="https://leetcode.com/u/abdul_samad_025/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode" />
   </a>
 </p>
 
@@ -29,167 +25,96 @@
 
 ## 🧠 About Me
 
-🎓 B.Tech student in **Computer Science (AI & ML)**  
-💻 Aspiring **Software Engineer** with strong ML foundations  
-🤖 Experience in **NLP, Machine Learning & API-based systems**  
-🌐 Build **end-to-end products** — backend, ML logic, frontend & deployment  
-🚀 Focused on clean code, scalability, and interview-ready fundamentals  
+🎓 B.Tech CSE (AI & ML) student  
+💻 Full-Stack Developer (React + Node.js)  
+🎯 Focused on building real-world, scalable web applications  
+🤖 Exploring AI, UI/UX, and modern development workflows  
+
+---
+
+## 🚀 What I Do
+
+👯 Open to collaborate on **React & UI/UX projects**  
+🤝 Looking for help in **Backend & scalable systems**  
+🌱 Learning **Full-Stack (React, Node, MongoDB) + AI tools**  
+💬 Ask me about **Frontend, React, Deployment**  
+⚡ Fun fact: *I enjoy debugging more than coding 😄*
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming & Web
 <p>
-  <img src="https://skillicons.dev/icons?i=java,c,python,javascript,html,css,sql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,mysql,python,java,git,github,figma,vite,tailwind" />
 </p>
-
-### 🤖 AI / ML / NLP
-- Text preprocessing & feature engineering  
-- TF-IDF vectorization  
-- Probabilistic models (Naive Bayes)  
-- Model evaluation & confidence scoring  
-
-### ⚙️ Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
-</p>
-
 
 ---
 
 ## 🚀 Featured Projects
-### 🧠 AI-Resume-Analyzer | React + AI Resume Analysis System
 
-> _Privacy-first AI-powered resume analysis with modern UI & intelligent insights_
-#### ✨ Features
-- 📄 Resume parsing (PDF, DOCX)  
-- 🎯 Skill & keyword analysis  
-- 🤖 AI insights (optional)  
-- 📊 Dashboard & reports  
-- 🔒 Privacy-first (browser-based)  
+### 🧠 AI Resume Analyzer
+- AI-powered resume analysis with modern UI  
+- Skill extraction, keyword analysis, dashboard insights  
+- Privacy-first (browser-based)
 
----
-
-#### 🛠 Tech
-React • Vite • Tailwind • Recharts • jsPDF • Gemini/OpenAI  
+🔗 Live: https://ai-resume-analyzer-react-eta.vercel.app/  
+📂 Code: https://github.com/abdul-samad-001/AI-Resume-Analyzer-React  
 
 ---
 
-#### 🏗 Architecture
-Modular • Hooks • Service-based • NLP engine  
+### 📩 SMS Spam Detection
+- NLP-based spam classifier  
+- Flask API + frontend UI  
+- Real-time predictions  
 
----
-
-#### 🔗 Links
-
-- 🌐 **Live Demo:**  
-  https://ai-resume-analyzer-react-eta.vercel.app/
-
-- 📁 **Repository:**  
-  https://github.com/abdul-samad-001/AI-Resume-Analyzer-React
-
----
-### AI-Resume-Analyzer
-> **Privacy-first browser-based resume analysis with dynamic insights**
-
-- Client-side resume parsing (PDF, DOCX, TXT)
-- Skill detection and keyword density analysis
-- Action verb highlighting and improvement suggestions
-- Interactive dashboard with responsive UI
-- Privacy-first architecture (100% browser processing)
-- Live deployment on Vercel
-
-🌐 **Live Demo:**  
-https://ai-resume-analyzer-gamma-ashy.vercel.app/
-
-📂 **Repository:** 
-https://github.com/abdul-samad-001/AI-Resume-Analyzer
-
---- 
-
-### 🧠 SMS Spam Detection System
-> **NLP-powered spam classifier with confidence scores**
-
-- ML-based text classification  
-- Flask REST API for real-time predictions  
-- Interactive web UI  
-- Deployed live on **Vercel**
-
-🌐 **Live Demo:**  
-https://sms-spam-detection-five.vercel.app/
-
-📂 **Repository:**  
-https://github.com/abdul-samad-001/SMS-SPAM-DETECTION
+🔗 Live: https://sms-spam-detection-five.vercel.app/  
+📂 Code: https://github.com/abdul-samad-001/SMS-SPAM-DETECTION  
 
 ---
 
 ### 🎬 Netflix Clone
-> **Pixel-perfect frontend recreation of Netflix UI**
+- Pixel-perfect responsive UI  
+- Built with HTML, CSS  
 
-- Built using pure HTML5 & CSS3  
-- Responsive, modern layout  
-- Clean UI structure  
-
-🌐 **Live Demo:**  
-https://netflix-r8uba0saw-abdul-samad-001s-projects.vercel.app/
-
-📂 **Repository:**  
-https://github.com/abdul-samad-001/netflix-clone
+🔗 Live: https://netflix-r8uba0saw-abdul-samad-001s-projects.vercel.app/  
 
 ---
 
-### 🎮 Hangman Game (Python → Web)
-> **Classic Hangman game evolved from desktop to browser**
+### 🎮 Hangman Game
+- Python → Web conversion  
+- Game logic + UI handling  
 
-- Python (Tkinter) → Web (HTML5, CSS3, JS)  
-- Core logic, state handling & UI adaptation
-
-🌐 **Live Demo:**  
-https://hangman-game-topaz-two.vercel.app/
-
-📂 **Repository:**  
-https://github.com/abdul-samad-001/Hangman-Game
+🔗 Live: https://hangman-game-topaz-two.vercel.app/  
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://stats-eight-theta.vercel.app/api?username=abdul-samad-001&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdul-samad-001&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 🧩 DSA & Competitive Programming
-
-- Regular problem solving on **LeetCode** and **GeeksforGeeks**
-- Strong focus on:
-  - Arrays, Strings, Recursion  
-  - Stack, Queue, Linked List  
-  - Trees & Binary Search  
-  - Hashing & Two Pointers  
-- Actively improving **problem-solving patterns for SWE interviews**
-
----
-
-## 📊 LeetCode Stats
-
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/abdul_samad_025?theme=dark&font=Baloo&radius=14" />
+  <img src="https://streak-stats.demolab.com/?user=abdul-samad-001&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced Data Structures & Algorithms  
-- System Design fundamentals  
-- Scalable backend & API architecture  
-- ML deployment best practices  
+- Advanced DSA & problem solving  
+- System Design basics  
+- Backend architecture & APIs  
+- AI integration in web apps  
+
+---
+
+## 💡 Goal
+
+To become a **skilled Software Engineer** building impactful, scalable products 🚀
 
 ---
 
 <p align="center">
-  ⭐ If you like my work, consider starring ⭐ my repositories or connecting with me 🚀
+⭐ If you like my work, consider starring my repositories or connecting with me!
 </p>
