@@ -90,14 +90,17 @@
 
 ## 📊 GitHub Stats
 
-![Abdul's GitHub stats](https://github-readme-stats-salesp07.vercel.app/api?username=abdul-samad-001&show_icons=true&theme=tokyonight&hide_border=true)
-
 <div align="center">
 
 ![Abdul's GitHub stats](https://github-readme-stats-salesp07.vercel.app/api?username=abdul-samad-001&show_icons=true&theme=tokyonight&hide_border=true)
 
 </div>
 
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=abdul-samad-001&theme=tokyonight&hide_border=true)
+
+</div>
 ---
 
 ## 🌱 Currently Learning
