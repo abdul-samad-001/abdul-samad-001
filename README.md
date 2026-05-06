@@ -90,13 +90,13 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=abdul-samad-001&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+![Abdul's GitHub stats](https://github-readme-stats-salesp07.vercel.app/api?username=abdul-samad-001&show_icons=true&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=abdul-samad-001&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+
+![Abdul's GitHub stats](https://github-readme-stats-salesp07.vercel.app/api?username=abdul-samad-001&show_icons=true&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
