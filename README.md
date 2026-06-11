@@ -60,8 +60,8 @@
 - Interactive dashboards for transparency and faster resolution
 - Designed to bridge the gap between citizens and local authorities
 
-🔗 **[Live Demo](https://nagar-nazar.vercel.app/)**
-📂 **[Source Code](https://github.com/abdul-samad-001/NagarNazar)**
+🔗 Live: https://nagar-nazar.vercel.app/
+📂 Code: https://github.com/abdul-samad-001/NagarNazar
 ---
 
 ### 🧠 AI Resume Analyzer
