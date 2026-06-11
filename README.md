@@ -61,7 +61,6 @@
 - Designed to bridge the gap between citizens and local authorities
 
 🔗 **[Live Demo](https://nagar-nazar.vercel.app/)**
-•
 📂 **[Source Code](https://github.com/abdul-samad-001/NagarNazar)**
 ---
 
