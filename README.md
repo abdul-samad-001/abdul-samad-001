@@ -1,6 +1,6 @@
 <!-- ================= HERO ================= -->
 <h1 align="center">✨ Abdul Samad ✨</h1> 
-      
+       
 <p align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&pause=600&color=00E5FF&center=true&vCenter=true&width=780&lines=B.Tech+CSE+(AI+%26+ML);Full-Stack+Developer;React+%7C+AI+%7C+UI%2FUX;Building+Real-World+Projects" />
 </p>
