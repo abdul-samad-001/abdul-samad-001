@@ -110,7 +110,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=abdul-samad-001&theme=tokyonight&hide_border=true&v=2)
+![GitHub Streak](https://streak-stats.demolab.com?user=abdul-samad-001&theme=tokyonight&hide_border=true&cache_seconds=1)
 
 </div>
 ---
