@@ -108,9 +108,7 @@
 ![Abdul's GitHub stats](https://github-readme-stats-salesp07.vercel.app/api?username=abdul-samad-001&show_icons=true&theme=tokyonight&hide_border=true&v=2)
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=abdul-samad-001&theme=tokyonight&hide_border=true" />
-</div>
+<img src="https://streak-stats.demolab.com?user=abdul-samad-001&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 ---
 
 ## 🌱 Currently Learning
