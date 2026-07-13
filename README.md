@@ -4,11 +4,9 @@
 <p align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&pause=600&color=00E5FF&center=true&vCenter=true&width=780&lines=B.Tech+CSE+(AI+%26+ML);Full-Stack+Developer;React+%7C+AI+%7C+UI%2FUX;Building+Real-World+Projects" />
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdul-samad-001&label=Profile%20Views&color=00E5FF&style=for-the-badge" />
 </p>
-
 <p align="center">
   <a href="https://linkedin.com/in/abdul-samad025">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
@@ -24,7 +22,6 @@
 ---
 
 ## 🧠 About Me
-
 🎓 B.Tech CSE (AI & ML) student  
 💻 Full-Stack Developer (React + Node.js)  
 🎯 Focused on building real-world, scalable web applications  
@@ -33,7 +30,6 @@
 ---
 
 ## 🚀 What I Do
-
 👯 Open to collaborate on **React & UI/UX projects**  
 🤝 Looking for help in **Backend & scalable systems**  
 🌱 Learning **Full-Stack (React, Node, MongoDB) + AI tools**  
@@ -43,12 +39,11 @@
 ---
 
 ## 🛠️ Tech Stack
-
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,mysql,python,java,git,github,figma,vite,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,mysql,python,java,git,github,figma,vite,tailwind,docker" />
 </p>
 
-----
+---
 
 ## 🚀 Featured Projects
 
@@ -59,8 +54,25 @@
 - Interactive dashboards for transparency and faster resolution
 - Designed to bridge the gap between citizens and local authorities
 
-🔗 Live: https://nagar-nazar.vercel.app/
+🔗 Live: https://nagar-nazar.vercel.app/  
 📂 Code: https://github.com/abdul-samad-001/NagarNazar
+
+---
+
+### ☁️ Cloud-Powered Task Manager
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/IBM%20Cloudant-052FAD?style=flat-square&logo=ibm&logoColor=white" />
+</p>
+
+- Full-stack CRUD app where every task is a real document in **IBM Cloudant** (NoSQL) — not a row in a table
+- Fully **containerized with Docker** — one command spins up the entire stack, anywhere
+- Live connection-status bar, priority tagging, search/filter, and an idempotent bulk-seed API built on Cloudant's `postBulkDocs`
+- Built from scratch with a documented architecture, a full project report, and verified end-to-end testing
+
+📂 Code: https://github.com/abdul-samad-001/cloudant-task-manager
 
 ---
 
@@ -100,19 +112,40 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdul-samad-001/abdul-samad-001/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdul-samad-001/abdul-samad-001/output/github-contribution-grid-snake.svg" />
+  <img alt="a snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/abdul-samad-001/abdul-samad-001/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![Abdul's GitHub stats](https://github-readme-stats-salesp07.vercel.app/api?username=abdul-samad-001&show_icons=true&theme=tokyonight&hide_border=true&v=2)
-</div>
+<table align="center">
+<tr>
+<td width="55%">
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=abdul-samad-001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=2" />
+</td>
+<td width="45%">
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=abdul-samad-001&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+</td>
+</tr>
+</table>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-samad-001&theme=tokyonight&hide_border=true" />
 </div>
 
-## 🌱 Currently Learning
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdul-samad-001&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+</p>
 
+## 🌱 Currently Learning
 - Advanced DSA & problem solving  
 - System Design basics  
 - Backend architecture & APIs  
@@ -121,7 +154,6 @@
 ---
 
 ## 💡 Goal
-
 To become a **skilled Software Engineer** building impactful, scalable products 🚀
 
 ---
