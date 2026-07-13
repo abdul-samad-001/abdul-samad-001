@@ -72,8 +72,8 @@
 - Live connection-status bar, priority tagging, search/filter, and an idempotent bulk-seed API built on Cloudant's `postBulkDocs`
 - Built from scratch with a documented architecture, a full project report, and verified end-to-end testing
 
+🔗 Live: https://cloudant-task-manager.onrender.com/  
 📂 Code: https://github.com/abdul-samad-001/cloudant-task-manager
-🔗 Live: https://cloudant-task-manager.onrender.com/
 
 ---
 
