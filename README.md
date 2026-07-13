@@ -134,8 +134,8 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdul-samad-001/abdul-samad-001/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdul-samad-001/abdul-samad-001/output/github-contribution-grid-snake.svg" />
-  [<img alt="a snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/abdul-samad-001/abdul-samad-001/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>](https://github-profile-trophy.vercel.app/?username=abdul-samad-001&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8)
+  <img alt="a snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/abdul-samad-001/abdul-samad-001/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 </p>
 
 ---
