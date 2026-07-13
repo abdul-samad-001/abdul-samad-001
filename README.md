@@ -140,7 +140,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## ## 📊 GitHub Stats
 
 <table align="center">
 <tr>
@@ -156,10 +156,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-samad-001&theme=tokyonight&hide_border=true" />
 </div>
-
-<p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=abdul-samad-001&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
-</p>
 
 ## 🌱 Currently Learning
 - Advanced DSA & problem solving  
