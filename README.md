@@ -158,8 +158,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy-winning.vercel.app/?username=abdul-samad-001&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
-       
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=abdul-samad-001&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
 </p>
 
 ## 🌱 Currently Learning
