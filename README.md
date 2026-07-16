@@ -117,6 +117,8 @@ A full-stack capstone platform that helps students track skill development throu
 | **Impact** | Personalized, difficulty-tagged learning paths; automated risk-flagging for at-risk learners |
 | **Repository** | [github.com/abdul-samad-001](https://github.com/abdul-samad-001) |
 
+
+
 **Highlights**
 - Architected a Node.js ⇄ Flask microservice pattern, mirroring the existing Gemini service layer for consistency
 - Built a per-skill, independent streak engine (`streakEngine.js`) with completed-day history and visual streak badges
@@ -138,7 +140,9 @@ A geospatial platform for visualizing and analyzing urban civic data, built for 
 | **Performance** | Real-time map rendering with layered geospatial queries |
 | **Security** | Role-based data access for civic reporting |
 | **Impact** | Ranked **Top 40** at HackDiwas 3.0 among competitive hackathon submissions |
-| **Repository** | [github.com/abdul-samad-001](https://github.com/abdul-samad-001) |
+| **Repository** | [github.com/abdul-samad-001](https://github.com/abdul-samad-001/NagarNazar)|
+| **Live** | [github.com/abdul-samad-001](https://nagar-nazar.vercel.app/) |
+
 
 **Highlights**
 - Designed a GIS-driven interface for surfacing smart-city civic data
