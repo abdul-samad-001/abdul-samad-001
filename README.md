@@ -141,7 +141,7 @@ A geospatial platform for visualizing and analyzing urban civic data, built for 
 | **Security** | Role-based data access for civic reporting |
 | **Impact** | Ranked **Top 40** at HackDiwas 3.0 among competitive hackathon submissions |
 | **Repository** | [github.com/abdul-samad-001](https://github.com/abdul-samad-001/NagarNazar)|
-| **Live** | [github.com/abdul-samad-001](https://nagar-nazar.vercel.app/) |
+| **Live** | [nagar-nazar](https://nagar-nazar.vercel.app/) |
 
 
 **Highlights**
