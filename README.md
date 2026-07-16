@@ -1,176 +1,380 @@
-<!-- ================= HERO ================= -->
-<h1 align="center">✨ Abdul Samad ✨</h1> 
-       
-<p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&pause=600&color=00E5FF&center=true&vCenter=true&width=780&lines=B.Tech+CSE+(AI+%26+ML);Full-Stack+Developer;React+%7C+AI+%7C+UI%2FUX;Building+Real-World+Projects" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdul-samad-001&label=Profile%20Views&color=00E5FF&style=for-the-badge" />
-</p>
-<p align="center">
-  <a href="https://linkedin.com/in/abdul-samad025">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:abdulsamad9040474@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://leetcode.com/u/abdul_samad_025/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode" />
-  </a>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Abdul%20Samad&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Full%20Stack%20Engineer&descAlignY=55&descSize=22" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+%2B+AI%2FML+Engineer;MERN+Stack+%7C+Python+%7C+Google+Gemini+AI;Building+Production-Grade+AI+Systems;Final-Year+B.Tech+%40+AI+%26+ML" alt="Typing SVG" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/B.Tech-AI%20%26%20ML-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/Batch-2026-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/United%20Institute%20of%20Technology-Prayagraj-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📍-Prayagraj%2C%20India-4C1D95?style=for-the-badge" />
+
+<br/><br/>
+
+<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/abdul-samad-001"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=abdul-samad-001&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/abdul-samad-001?style=for-the-badge&color=7C3AED&labelColor=1a1a2e&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/stars/abdul-samad-001?style=for-the-badge&color=8B5CF6&labelColor=1a1a2e&label=STARS" />
+
+</div>
 
 ---
 
 ## 🧠 About Me
-🎓 B.Tech CSE (AI & ML) student  
-💻 Full-Stack Developer (React + Node.js)  
-🎯 Focused on building real-world, scalable web applications  
-🤖 Exploring AI, UI/UX, and modern development workflows  
 
----
+I'm a final-year **B.Tech (AI & Machine Learning)** student at United Institute of Technology, Prayagraj, focused on building production-grade software that blends **full-stack engineering** with **applied AI/ML systems**.
 
-## 🚀 What I Do
-👯 Open to collaborate on **React & UI/UX projects**  
-🤝 Looking for help in **Backend & scalable systems**  
-🌱 Learning **Full-Stack (React, Node, MongoDB) + AI tools**  
-💬 Ask me about **Frontend, React, Deployment**  
-⚡ Fun fact: *I enjoy debugging more than coding 😄*
+My work centers on the **MERN stack** (MongoDB, Express, React, Node.js) paired with **Python-based AI/ML microservices** — architecting systems where a Node.js backend orchestrates Flask-based ML models and LLM-powered features (Google Gemini) as independent, horizontally-scalable services.
+
+I approach engineering with a product mindset: every feature is scoped, documented, and shipped with an eye toward maintainability, defensibility, and real-world impact — not just working code.
+
+**Currently:**
+- 🏗️ Building **EduPulse AI**, a full-stack student skill-tracking platform with an AI roadmap generator (Gemini 2.5 Flash) and a Flask-based ML microservice for procrastination-risk detection (Logistic Regression, ~82% accuracy)
+- 🎯 Preparing for campus placements (Infosys DSE/SP, TCS NQT) with a structured DSA + CS fundamentals sprint
+- 🧩 Actively shipping and documenting side projects — from GIS-based smart city tooling to cloud-native task managers
+
+**Open To:**
+- Full-Stack Engineering roles (MERN)
+- AI/ML Engineering & LLM integration roles
+- Backend / Systems Engineering internships
+- Open-source collaboration
 
 ---
 
 ## 🛠️ Tech Stack
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,mysql,python,java,git,github,figma,vite,tailwind,docker" />
-</p>
+
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=py,js,java,c,cpp,html,css&theme=dark" />
+
+<br/>
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,vite&theme=dark" />
+
+<br/>
+
+**Backend & Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,postgres&theme=dark" />
+
+<br/>
+
+**Cloud, DevOps & Tooling**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vscode,postman,aws,gcp&theme=dark" />
+
+</div>
+
+---
+
+## 🤖 AI / ML Expertise
+
+<div align="center">
+
+| Domain | Proficiency | Details |
+|---|---|---|
+| **LLM Integration** | ⭐⭐⭐⭐☆ | Google Gemini API (`@google/generative-ai`), prompt engineering, structured JSON output generation, service-layer abstraction |
+| **Applied Machine Learning** | ⭐⭐⭐⭐☆ | Scikit-learn — Logistic Regression & Random Forest classifiers, model selection via accuracy benchmarking (~82%) |
+| **ML Microservice Architecture** | ⭐⭐⭐⭐☆ | Flask-based prediction APIs decoupled from Node.js backend, HTTP-based service orchestration |
+| **Synthetic Data Engineering** | ⭐⭐⭐☆☆ | Designed and generated 10K–50K row synthetic datasets with defensible feature distributions for model training |
+| **NLP & Text Classification** | ⭐⭐⭐☆☆ | Naive Bayes + TF-IDF pipelines for spam/text classification (97% accuracy) |
+| **Feature Engineering** | ⭐⭐⭐☆☆ | Real-data feature mapping (MongoDB-driven), placeholder-flagged features for iterative model improvement |
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏙️ NagarNazar
-- Smart civic issue reporting and management platform
-- Citizens can report potholes, garbage dumps, water leakage, and public infrastructure issues
-- Real-time issue tracking with location-based complaint monitoring
-- Interactive dashboards for transparency and faster resolution
-- Designed to bridge the gap between citizens and local authorities
+<details>
+<summary><b>🎓 EduPulse AI — AI-Powered Student Skill & Productivity Platform</b></summary>
+<br/>
 
-🔗 Live: https://nagar-nazar.vercel.app/  
-📂 Code: https://github.com/abdul-samad-001/NagarNazar
+A full-stack capstone platform that helps students track skill development through AI-generated learning roadmaps, day-wise progress streaks, and ML-driven procrastination-risk detection.
+
+| Category | Details |
+|---|---|
+| **Stack** | MERN (MongoDB, Express, React, Node.js) + Flask (Python ML microservice) |
+| **AI Layer** | Google Gemini 2.5 Flash via `@google/generative-ai` SDK |
+| **ML Layer** | Scikit-learn Logistic Regression, 11-feature model, ~82% accuracy |
+| **Scale** | 50,000-row synthetic training dataset, 7–10 AI-generated tasks per skill |
+| **Performance** | Dual-trigger streak validation (on fetch + on task toggle), sub-second Gemini roadmap generation |
+| **Security** | Additive-only architecture — protected core hooks (streak logic) isolated from new feature code |
+| **Impact** | Personalized, difficulty-tagged learning paths; automated risk-flagging for at-risk learners |
+| **Repository** | [github.com/abdul-samad-001](https://github.com/abdul-samad-001) |
+
+**Highlights**
+- Architected a Node.js ⇄ Flask microservice pattern, mirroring the existing Gemini service layer for consistency
+- Built a per-skill, independent streak engine (`streakEngine.js`) with completed-day history and visual streak badges
+- Trained and benchmarked Logistic Regression against Random Forest, selecting the higher-accuracy model for production
+- Documented and defended a known architecture deviation (synopsis vs. build) with a formal mapping document for academic review
+
+</details>
+
+<details>
+<summary><b>🏙️ NagarNazar — GIS-Based Smart City Intelligence Platform</b></summary>
+<br/>
+
+A geospatial platform for visualizing and analyzing urban civic data, built for HackDiwas 3.0.
+
+| Category | Details |
+|---|---|
+| **Stack** | MERN + GIS mapping libraries |
+| **Scale** | City-wide civic data layers with interactive map-based visualization |
+| **Performance** | Real-time map rendering with layered geospatial queries |
+| **Security** | Role-based data access for civic reporting |
+| **Impact** | Ranked **Top 40** at HackDiwas 3.0 among competitive hackathon submissions |
+| **Repository** | [github.com/abdul-samad-001](https://github.com/abdul-samad-001) |
+
+**Highlights**
+- Designed a GIS-driven interface for surfacing smart-city civic data
+- Built under hackathon time constraints while maintaining a production-quality data model
+
+</details>
+
+<details>
+<summary><b>☁️ Cloud-Powered Task Manager — IBM Cloud PBEL Project</b></summary>
+<br/>
+
+A containerized full-stack task management application built on IBM Cloud infrastructure as part of the IBM Cloud Computing PBEL project.
+
+| Category | Details |
+|---|---|
+| **Stack** | Node.js, Express, IBM Cloudant (NoSQL), Docker, Vanilla JS |
+| **Scale** | Fully containerized deployment pipeline |
+| **Performance** | Cloudant-backed persistence with Docker-based environment parity |
+| **Security** | Environment-isolated credentials, containerized runtime boundaries |
+| **Impact** | Deployed live on Render; demonstrates cloud-native deployment competency |
+| **Repository** | [github.com/abdul-samad-001/cloudant-task-manager](https://github.com/abdul-samad-001/cloudant-task-manager) |
+
+**Highlights**
+- Integrated IBM Cloudant as a managed NoSQL data layer
+- Containerized the full application with Docker for consistent deployment
+- Shipped a live, publicly accessible deployment on Render
+
+</details>
+
+<details>
+<summary><b>📄 AI Resume Analyzer</b></summary>
+<br/>
+
+An AI-assisted tool that parses resumes and provides structured feedback against job-relevant criteria.
+
+| Category | Details |
+|---|---|
+| **Stack** | Python, NLP-based parsing |
+| **Scale** | Single-document analysis pipeline |
+| **Performance** | Fast structured-feedback generation |
+| **Security** | Local document parsing, no external data retention |
+| **Impact** | Assists candidates in aligning resumes with role expectations |
+| **Repository** | [github.com/abdul-samad-001](https://github.com/abdul-samad-001) |
+
+</details>
+
+<details>
+<summary><b>📩 SMS Spam Detection System</b></summary>
+<br/>
+
+A text-classification system detecting spam messages using classical NLP techniques, deployed as a Flask web app.
+
+| Category | Details |
+|---|---|
+| **Stack** | Python, Scikit-learn, Flask |
+| **Scale** | Naive Bayes + TF-IDF vectorization pipeline |
+| **Performance** | **97% classification accuracy** |
+| **Security** | Stateless request-based inference |
+| **Impact** | Demonstrates end-to-end NLP model deployment |
+| **Repository** | [github.com/abdul-samad-001](https://github.com/abdul-samad-001) |
+
+</details>
 
 ---
 
-### ☁️ Cloud-Powered Task Manager
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/IBM%20Cloudant-052FAD?style=flat-square&logo=ibm&logoColor=white" />
-</p>
+## 💼 Experience
 
-- Full-stack CRUD app where every task is a real document in **IBM Cloudant** (NoSQL) — not a row in a table
-- Fully **containerized with Docker** — one command spins up the entire stack, anywhere
-- Live connection-status bar, priority tagging, search/filter, and an idempotent bulk-seed API built on Cloudant's `postBulkDocs`
-- Built from scratch with a documented architecture, a full project report, and verified end-to-end testing
+### IBM Cloud Computing — PBEL Certification Project
+**IBM SkillsBuild** | *2026*
 
-🔗 Live: https://cloudant-task-manager.onrender.com/  
-📂 Code: https://github.com/abdul-samad-001/cloudant-task-manager
+Completed a Practice-Based Experiential Learning (PBEL) project under IBM's Cloud Computing track, designing and deploying a production-style cloud-native application.
 
----
+- Architected a full-stack task management system using Node.js, Express, and IBM Cloudant
+- Containerized the application with Docker for reproducible deployments
+- Deployed a live instance to Render and published the project to GitHub
 
-### 🧠 AI Resume Analyzer
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-</p>
+`Node.js` `Express` `IBM Cloudant` `Docker` `Render`
 
-- AI-powered resume analysis with modern UI  
-- Skill extraction, keyword analysis, dashboard insights  
-- Privacy-first (browser-based)
+<br/>
 
-🔗 Live: https://ai-resume-analyzer-react-eta.vercel.app/  
-📂 Code: https://github.com/abdul-samad-001/AI-Resume-Analyzer-React  
+### Hackathon Team Member — HackDiwas 3.0
+**Project: NagarNazar** | *2025*
+
+Built a GIS-based smart city platform within a competitive hackathon timeframe as part of a team submission.
+
+- Designed geospatial data visualization for civic infrastructure use cases
+- Delivered a working prototype under time constraints, placing **Top 40** overall
+
+`MERN Stack` `GIS` `Rapid Prototyping` `Team Collaboration`
 
 ---
 
-### 📩 SMS Spam Detection
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-</p>
+## 🏆 Achievements
 
-- NLP-based spam classifier  
-- Flask API + frontend UI  
-- Real-time predictions  
+<div align="center">
 
-🔗 Live: https://sms-spam-detection-five.vercel.app/  
-📂 Code: https://github.com/abdul-samad-001/SMS-SPAM-DETECTION  
+| Recognition | Details |
+|---|---|
+| 🥇 **Top 40 — HackDiwas 3.0** | Ranked among the top 40 teams for *NagarNazar*, a GIS-based smart city platform |
+| ☁️ **IBM Cloud PBEL Certification** | Completed a full-stack cloud deployment project on IBM Cloud infrastructure |
+| 🧠 **OCI 2025 Generative AI Professional** | Certified in enterprise-grade Generative AI architecture on Oracle Cloud Infrastructure |
+| 🎓 **AWS Certified Solutions Architect** | Certified in cloud infrastructure design on AWS |
 
----
-
-### 🎬 Netflix Clone
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-</p>
-
-- Pixel-perfect responsive UI  
-- Built with HTML, CSS  
-
-🔗 Live: https://netflix-r8uba0saw-abdul-samad-001s-projects.vercel.app/  
+</div>
 
 ---
 
-### 🎮 Hangman Game
-- Python → Web conversion  
-- Game logic + UI handling  
+## 📜 Certifications
 
-🔗 Live: https://hangman-game-topaz-two.vercel.app/  
+<div align="center">
+
+**Oracle**
+<br/>
+<img src="https://img.shields.io/badge/OCI%202025%20Generative%20AI%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+
+<br/><br/>
+
+**AWS**
+<br/>
+<img src="https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+<br/><br/>
+
+**NPTEL**
+<br/>
+<img src="https://img.shields.io/badge/Add%20Your%20NPTEL%20Certification-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white" />
+
+<br/><br/>
+
+**Cisco**
+<br/>
+<img src="https://img.shields.io/badge/Add%20Your%20Cisco%20Certification-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+
+</div>
+
+---
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/your-leetcode-username"><img src="https://img.shields.io/badge/LeetCode-2A2A2A?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
+<a href="https://www.geeksforgeeks.org/user/your-gfg-username"><img src="https://img.shields.io/badge/GeeksforGeeks-2A2A2A?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" /></a>
+<a href="https://www.hackerrank.com/your-hackerrank-username"><img src="https://img.shields.io/badge/HackerRank-2A2A2A?style=for-the-badge&logo=hackerrank&logoColor=2EC866" /></a>
+<a href="https://www.codechef.com/users/your-codechef-username"><img src="https://img.shields.io/badge/CodeChef-2A2A2A?style=for-the-badge&logo=codechef&logoColor=5B4638" /></a>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=abdul-samad-001&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9C9C9&count_private=true" width="49%" />
+<img src="https://streak-stats.demolab.com?user=abdul-samad-001&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-samad-001&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9C9C9" width="49%" />
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=abdul-samad-001&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdul-samad-001&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD" width="100%" />
+
+</div>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdul-samad-001/abdul-samad-001/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdul-samad-001/abdul-samad-001/output/github-contribution-grid-snake.svg" />
-  <img alt="a snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/abdul-samad-001/abdul-samad-001/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-</p>
-
----
-
-## ## 📊 GitHub Stats
-
-<table align="center">
-<tr>
-<td width="55%">
-<img src="https://github-readme-stats-salesp07.vercel.app/api?username=abdul-samad-001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=2" />
-</td>
-<td width="45%">
-<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=abdul-samad-001&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-</td>
-</tr>
-</table>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-samad-001&theme=tokyonight&hide_border=true" />
+
+<img src="https://raw.githubusercontent.com/abdul-samad-001/abdul-samad-001/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
 </div>
 
-## 🌱 Currently Learning
-- Advanced DSA & problem solving  
-- System Design basics  
-- Backend architecture & APIs  
-- AI integration in web apps  
+---
+
+## 🎯 Current Focus
+
+```yaml
+current_focus:
+  learning:
+    - Advanced DSA patterns for product-based interviews
+    - System design fundamentals
+    - LangGraph & agentic AI workflows
+  building:
+    - EduPulse AI — full-stack AI skill-tracking platform
+    - GitHub profile & portfolio branding
+  exploring:
+    - GraphRAG and retrieval-augmented generation pipelines
+    - MLOps tooling (MLflow, Docker-based ML deployment)
+  open_to:
+    - Full-Stack Engineering roles
+    - AI/ML Engineering roles
+    - Backend Engineering internships
+```
 
 ---
 
-## 💡 Goal
-To become a **skilled Software Engineer** building impactful, scalable products 🚀
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/abdul-samad-001"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-4C1D95?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+</div>
 
 ---
 
-<p align="center">
-⭐ If you like my work, consider starring my repositories or connecting with me!
-</p>
+<div align="center">
+
+<br/>
+
+*"Code is the closest thing we have to magic — I build it with intent."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
+
+</div>
