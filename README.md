@@ -1,37 +1,30 @@
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/B.Tech-AI%20%26%20ML-6D28D9?style=for-the-badge"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Batch-2026-7C3AED?style=for-the-badge"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/UIT-Prayagraj-8B5CF6?style=for-the-badge"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/📍-Prayagraj,%20India-4C1D95?style=for-the-badge"/>
+</p>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,11,20&text=Abdul%20Samad&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Full%20Stack%20Engineer&descAlignY=58&descSize=22"
-  width="100%"
-  alt="Abdul Samad Banner"
-/>
+<p align="center">
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  &nbsp;
+  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://github.com/abdul-samad-001"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
-</div>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Full+Stack+%2B+AI%2FML+Engineer;MERN+Stack+%7C+Python+%7C+Google+Gemini+AI;Building+Production-Grade+AI+Systems;Final-Year+B.Tech+%40+AI+%26+ML" alt="Typing SVG" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/B.Tech-AI%20%26%20ML-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white" />
-<img src="https://img.shields.io/badge/Batch-2026-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/United%20Institute%20of%20Technology-Prayagraj-8B5CF6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/📍-Prayagraj%2C%20India-4C1D95?style=for-the-badge" />
-
-<br/><br/>
-
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/abdul-samad-001"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=abdul-samad-001&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/abdul-samad-001?style=for-the-badge&color=7C3AED&labelColor=1a1a2e&label=FOLLOWERS" />
-<img src="https://img.shields.io/github/stars/abdul-samad-001?style=for-the-badge&color=8B5CF6&labelColor=1a1a2e&label=STARS" />
-
-</div>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdul-samad-001&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/abdul-samad-001?style=for-the-badge&label=FOLLOWERS"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/abdul-samad-001?style=for-the-badge&label=STARS"/>
+</p>
 ---
 
 ## 🧠 About Me
