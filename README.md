@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Abdul%20Samad&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Full%20Stack%20Engineer&descAlignY=55&descSize=22" width="100%"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Abdul%20Samad&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=22"
+  width="100%"
+  alt="Abdul Samad Banner"
+/>
 
-<br/>
+</div>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Full+Stack+%2B+AI%2FML+Engineer;MERN+Stack+%7C+Python+%7C+Google+Gemini+AI;Building+Production-Grade+AI+Systems;Final-Year+B.Tech+%40+AI+%26+ML" alt="Typing SVG" />
 
