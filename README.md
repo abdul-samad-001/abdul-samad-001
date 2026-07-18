@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Abdul%20Samad&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=22"
+  src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,11,20&text=Abdul%20Samad&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Full%20Stack%20Engineer&descAlignY=58&descSize=22"
   width="100%"
   alt="Abdul Samad Banner"
 />
