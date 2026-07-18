@@ -120,7 +120,7 @@ A full-stack capstone platform that helps students track skill development throu
 | **Security** | Additive-only architecture — protected core hooks (streak logic) isolated from new feature code |
 | **Impact** | Personalized, difficulty-tagged learning paths; automated risk-flagging for at-risk learners |
 | **Live Demo** | [Add your deployed link here](https://your-live-link.com) |
-| **Repository** | [github.com/abdul-samad-001](https://github.com/abdul-samad-001) |
+| **Repository** | [github.com/abdul-samad-001](https://github.com/abdul-samad-001/EDUPULSE_AI) |
 
 **Highlights**
 - Architected a Node.js ⇄ Flask microservice pattern, mirroring the existing Gemini service layer for consistency
@@ -143,8 +143,8 @@ A geospatial platform for visualizing and analyzing urban civic data, built for 
 | **Performance** | Real-time map rendering with layered geospatial queries |
 | **Security** | Role-based data access for civic reporting |
 | **Impact** | Ranked **Top 40** at HackDiwas 3.0 among competitive hackathon submissions |
-| **Live Demo** | [Add your deployed link here](https://your-live-link.com) |
-| **Repository** | [github.com/abdul-samad-001](https://github.com/abdul-samad-001) |
+| **Live Demo** | [NagarNazar](https://nagar-nazar.vercel.app/) |
+| **Repository** | [github.com/abdul-samad-001/NagarNazar](https://github.com/abdul-samad-001/NagarNazar) |
 
 **Highlights**
 - Designed a GIS-driven interface for surfacing smart-city civic data
@@ -165,7 +165,7 @@ A containerized full-stack task management application built on IBM Cloud infras
 | **Performance** | Cloudant-backed persistence with Docker-based environment parity |
 | **Security** | Environment-isolated credentials, containerized runtime boundaries |
 | **Impact** | Deployed live on Render; demonstrates cloud-native deployment competency |
-| **Live Demo** | [Add your Render deployment link here](https://your-live-link.com) |
+| **Live Demo** | [Cloud-Powered Task Manager — IBM Cloud](https://cloudant-task-manager.onrender.com/) |
 | **Repository** | [github.com/abdul-samad-001/cloudant-task-manager](https://github.com/abdul-samad-001/cloudant-task-manager) |
 
 **Highlights**
@@ -188,8 +188,8 @@ An AI-assisted tool that parses resumes and provides structured feedback against
 | **Performance** | Fast structured-feedback generation |
 | **Security** | Local document parsing, no external data retention |
 | **Impact** | Assists candidates in aligning resumes with role expectations |
-| **Live Demo** | [Add your deployed link here](https://your-live-link.com) |
-| **Repository** | [github.com/abdul-samad-001](https://github.com/abdul-samad-001) |
+| **Live Demo** | [AI Resume Analyzer](https://ai-resume-analyzer-react-eta.vercel.app/) |
+| **Repository** | [github.com/abdul-samad-001/AI-Resume-Analyzer-React](https://github.com/abdul-samad-001/AI-Resume-Analyzer-React) |
 
 </details>
 
@@ -206,8 +206,8 @@ A text-classification system detecting spam messages using classical NLP techniq
 | **Performance** | **97% classification accuracy** |
 | **Security** | Stateless request-based inference |
 | **Impact** | Demonstrates end-to-end NLP model deployment |
-| **Live Demo** | [Add your Flask deployment link here](https://your-live-link.com) |
-| **Repository** | [github.com/abdul-samad-001](https://github.com/abdul-samad-001) |
+| **Live Demo** | [Add your Flask deployment link here](https://sms-spam-detection-five.vercel.app/) |
+| **Repository** | [github.com/abdul-samad-001/SMS-SPAM-DETECTION](https://github.com/abdul-samad-001/SMS-SPAM-DETECTION) |
 
 </details>
 
