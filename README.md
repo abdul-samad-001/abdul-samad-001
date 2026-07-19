@@ -7,7 +7,9 @@
 <!-- Typing -->
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=MERN+Stack+%7C+Python+%7C+Google+Gemini" />
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=600&color=00E5FF&center=true&vCenter=true&width=780&lines=Full-Stack+MERN+Developer;Aspiring+AI%2FML+Engineer;Docker+%7C+IBM+Cloud+%7C+Generative+AI;Building+Real-World+Projects" />
+</p>
 <br>
 
 <!-- Info -->
