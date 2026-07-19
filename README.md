@@ -276,8 +276,7 @@ Built a GIS-based smart city platform within a competitive hackathon timeframe a
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=abdul-samad-001&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400"
-    alt="GitHub Stats"
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abdul-samad-001&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
   />
   <img
     height="170"
