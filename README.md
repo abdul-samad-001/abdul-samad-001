@@ -273,16 +273,27 @@ Built a GIS-based smart city platform within a competitive hackathon timeframe a
 </div>
 
 ---
-
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abdul-samad-001&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-samad-001&theme=radical&hide_border=true" />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=abdul-samad-001&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400"
+    alt="GitHub Stats"
+  />
+  <img
+    height="170"
+    src="https://streak-stats.demolab.com?user=abdul-samad-001&theme=radical&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-samad-001&layout=compact&theme=radical&hide_border=true" />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-samad-001&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400"
+    alt="Top Languages"
+  />
 </p>
 
 ---
@@ -290,8 +301,12 @@ Built a GIS-based smart city platform within a competitive hackathon timeframe a
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdul-samad-001&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=abdul-samad-001&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"
+    alt="GitHub Trophies"
+  />
 </p>
+
 ---
 
 ## 📈 Contribution Activity
