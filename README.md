@@ -291,17 +291,6 @@ Built a GIS-based smart city platform within a competitive hackathon timeframe a
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=abdul-samad-001&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=15"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -348,10 +337,10 @@ current_focus:
 
 <div align="center">
 
-<a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:abdulsamad9040474@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://www.linkedin.com/in/abdul-samad025/"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/abdul-samad-001"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-4C1D95?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://abdul-samad-001.github.io/abdul_samad.github.io/"><img src="https://img.shields.io/badge/Portfolio-4C1D95?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </div>
 
