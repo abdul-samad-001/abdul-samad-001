@@ -286,11 +286,8 @@ Built a GIS-based smart city platform within a competitive hackathon timeframe a
 </p>
 
 <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-samad-001&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400"
-    alt="Top Languages"
-  />
+  <img height="170"
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdul-samad-001&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
 </p>
 
 ---
