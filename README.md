@@ -265,10 +265,8 @@ Built a GIS-based smart city platform within a competitive hackathon timeframe a
 
 <div align="center">
 
-<a href="https://leetcode.com/your-leetcode-username"><img src="https://img.shields.io/badge/LeetCode-2A2A2A?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
-<a href="https://www.geeksforgeeks.org/user/your-gfg-username"><img src="https://img.shields.io/badge/GeeksforGeeks-2A2A2A?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" /></a>
-<a href="https://www.hackerrank.com/your-hackerrank-username"><img src="https://img.shields.io/badge/HackerRank-2A2A2A?style=for-the-badge&logo=hackerrank&logoColor=2EC866" /></a>
-<a href="https://www.codechef.com/users/your-codechef-username"><img src="https://img.shields.io/badge/CodeChef-2A2A2A?style=for-the-badge&logo=codechef&logoColor=5B4638" /></a>
+<a href="https://leetcode.com/u/abdul_samad_025/"><img src="https://img.shields.io/badge/LeetCode-2A2A2A?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
+<a href="https://www.geeksforgeeks.org/profile/abdulsamad007?tab=activity"><img src="https://img.shields.io/badge/GeeksforGeeks-2A2A2A?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" /></a>
 
 </div>
 
