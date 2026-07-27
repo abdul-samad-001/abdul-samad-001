@@ -14,7 +14,7 @@
 
 <p>
 <img src="https://img.shields.io/badge/B.Tech-AI%20%26%20ML-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Batch-2026-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Batch-2027-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/UIT-Prayagraj-8B5CF6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/📍-Prayagraj,%20India-4C1D95?style=for-the-badge"/>
 </p>
