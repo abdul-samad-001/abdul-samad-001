@@ -5,7 +5,7 @@
   alt="Abdul Samad Banner"
 />
 <!-- Typing -->
-  
+   
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=MERN+Stack+%7C+Python+%7C+Google+Gemini" />
  
 <br>
