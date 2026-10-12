@@ -276,11 +276,6 @@ Built a GIS-based smart city platform within a competitive hackathon timeframe a
 
 ![GitHub Activity Graph](https://github-readme-activity-graph-gamma-seven.vercel.app/graph?username=abdul-samad-001&bg_color=0d1117&color=58a6ff&line=39d353&point=ffffff&area=true&hide_border=true)
 
-
-![GitHub Activity Graph](https://github-readme-activity-graph-gamma-seven.vercel.app/graph?username=abdul-samad-001&bg_color=0d1117&color=58a6ff&line=39d353&point=39d353&area=true&hide_border=true&custom_title=Abdul%20Samad's%20GitHub%20Activity%20Graph)
-
-
-
 ---
 
 ## 🐍 Contribution Snake
