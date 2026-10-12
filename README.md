@@ -297,8 +297,6 @@ Built a GIS-based smart city platform within a competitive hackathon timeframe a
     height="165"
     alt="GitHub Statistics"
   />
-```
-  />
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-samad-001&theme=github-dark-blue&hide_border=true"
     height="165"
@@ -307,8 +305,6 @@ Built a GIS-based smart city platform within a competitive hackathon timeframe a
 </p>
 ---
 ## 🎯 Current Focus
-
-```yaml
 current_focus:
   learning:
     - Advanced DSA patterns for product-based interviews
@@ -324,7 +320,6 @@ current_focus:
     - Full-Stack Engineering roles
     - AI/ML Engineering roles
     - Backend Engineering internships
-```
 
 ---
 
