@@ -1,4 +1,4 @@
-<div align="center"> 
+  <div align="center"> 
 <img
   src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,11,20&text=Abdul%20Samad&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Full%20Stack%20Engineer&descAlignY=58&descSize=22"
   width="100%"
@@ -292,11 +292,18 @@ Built a GIS-based smart city platform within a competitive hackathon timeframe a
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdul-samad-001&show_icons=true&theme=github_dark&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-samad-001&theme=github-dark-blue&hide_border=true" height="165" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=abdul-samad-001&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
+    height="165"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-samad-001&theme=github-dark-blue&hide_border=true"
+    height="165"
+    alt="GitHub Contribution Streak"
+  />
 </p>
-
-
+---
 ## 🎯 Current Focus
 
 ```yaml
