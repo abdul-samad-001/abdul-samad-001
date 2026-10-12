@@ -272,13 +272,10 @@ Built a GIS-based smart city platform within a competitive hackathon timeframe a
 
 ---
 
-## 📈 Contribution Activity
 
-<div align="center">
+## 📈 GitHub Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdul-samad-001&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD" width="100%" />
-
-</div>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdul-samad-001&theme=github-compact)
 
 ---
 
