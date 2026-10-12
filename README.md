@@ -271,27 +271,6 @@ Built a GIS-based smart city platform within a competitive hackathon timeframe a
 </div>
 
 ---
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    height="170"
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abdul-samad-001&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-  <a href="https://git.io/streak-stats">
-  <img
-    src="./profile/streak.svg"
-    alt="GitHub Streak"
-    height="170"
-  />
-</a>
-</p>
-
-<p align="center">
-  <img height="170"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdul-samad-001&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
-</p>
-
----
 
 ## 📈 Contribution Activity
 
